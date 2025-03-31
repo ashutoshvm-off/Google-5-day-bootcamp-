@@ -1,0 +1,1 @@
+The following files is on a 5day google + kaggle bootcamp for ai model and training. It also includes gen ai tokens and also to include the codes for the assignment from the kaggle and the following steps to followed by the google and kaggle mails and classes
